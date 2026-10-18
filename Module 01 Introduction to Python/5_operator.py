@@ -1,0 +1,9 @@
+num1=45
+num2=10
+total=num1+num2
+print(total)
+print(num1-num2)
+print(num1*num2)
+print(num1/num2)
+print(num1%num2)
+print(num1//num2)

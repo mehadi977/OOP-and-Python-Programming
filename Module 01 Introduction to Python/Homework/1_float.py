@@ -1,0 +1,9 @@
+a=10.33
+print(a)
+print(type(a))
+in_int=int(a)
+print(in_int)
+print(type(in_int))
+in_float=float(in_int)
+print(in_float)
+print(type(in_float))
