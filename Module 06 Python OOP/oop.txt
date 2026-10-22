@@ -1,0 +1,5 @@
+OOP-->
+1.Inheritance-> super class->sub class
+2.Encapsulation(Public,Private,Protecated)
+3.Abstract(abc @abstractmethod)
+4.Polymorphism
